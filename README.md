@@ -1,16 +1,70 @@
-## Hi there 👋
+# 💫 About Me:
+🙋🏻‍♂️ My name is **Javohir Amanbayev**  
+🎂 I'm **18-years old**  
+💬 I'm interested in **web sites and Telegram bots**  
+👨‍💻 Currently I **don't work yet**, but I'm actively learning and improving my development skills  
 
-<!--
-**Javohir9026/Javohir9026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/Javohir_Amanbayev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/javokhir_9026)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javohir-amanbayev-87a677394)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanbayevjavohir94@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Ant Design](https://img.shields.io/badge/AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Javohir9026&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Javohir9026&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Javohir9026&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Javohir9026&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+# ⏱️ Coding Time:
+<a href="https://wakatime.com/@waka_936130fd-99cc-416b-acb5-21079803fe7a">
+  <img src="https://wakatime.com/badge/user/waka_936130fd-99cc-416b-acb5-21079803fe7a.svg" alt="WakaTime Badge" />
+</a>
+
+---
+
+## 🐍 GitHub Snake Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javohir9026/Javohir9026/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Javohir9026/Javohir9026/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Javohir9026/Javohir9026/output/github-snake.svg" />
+</picture>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Javohir9026&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 💰 You can support me by donating:
+[![Donate](https://img.shields.io/badge/Support%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://tirikchilik.uz/javokhir)
