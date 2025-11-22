@@ -50,8 +50,6 @@
 [![wakatime](https://wakatime.com/badge/user/b0f3e828-8cb8-4d04-8d13-5ce4276f4261.svg)](https://wakatime.com/@b0f3e828-8cb8-4d04-8d13-5ce4276f4261)
 
 
----
-
 [![](https://visitcount.itsvg.in/api?id=Javohir9026&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
