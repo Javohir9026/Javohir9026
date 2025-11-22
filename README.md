@@ -67,4 +67,4 @@
 ---
 
 ## 💰 You can support me by donating:
-[![Donate](https://img.shields.io/badge/Support%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://tirikchilik.uz/javokhir)
+[![Donate](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://tirikchilik.uz/javokhir)
