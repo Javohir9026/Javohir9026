@@ -47,9 +47,8 @@
 ---
 
 # ⏱️ Coding Time:
-<a href="https://wakatime.com/@waka_936130fd-99cc-416b-acb5-21079803fe7a">
-  <img src="https://wakatime.com/badge/user/waka_936130fd-99cc-416b-acb5-21079803fe7a.svg" alt="WakaTime Badge" />
-</a>
+[![wakatime](https://wakatime.com/badge/user/b0f3e828-8cb8-4d04-8d13-5ce4276f4261.svg)](https://wakatime.com/@b0f3e828-8cb8-4d04-8d13-5ce4276f4261)
+
 
 ---
 
