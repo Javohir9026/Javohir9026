@@ -2,7 +2,6 @@
 🙋🏻‍♂️ My name is **Javohir Amanbayev**  
 🎂 I'm **18-years old**  
 💬 I'm interested in **web sites and Telegram bots**  
-👨‍💻 Currently I **don't work yet**, but I'm actively learning and improving my development skills  
 
 ---
 
